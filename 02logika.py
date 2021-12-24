@@ -2,7 +2,7 @@
 
 print('-----and-----')
 print(True and True)
-print(1 + 2 == 3 and True)
+print(1 + 2 == 4 and True)
 print('-----or-----')
 print(False or 1 > 5)
 print(False or 5 > 2)

@@ -5,7 +5,7 @@ kode_hari = input("Masukkan kode hari ini : ")
 kode_hari = kode_hari.lower()
 if kode_hari == "senin":
     discount = total_belanja * 1/100
-    print("Discount hari ini 1%")
+    print("Discount hari ini 1%")   
   
 elif kode_hari == "selasa":
     discount = total_belanja * 2/100

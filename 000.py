@@ -1,7 +1,7 @@
 nama = input("masukkan nama : ")
 tahun_lahir = int(input("Tahun berapa anda lahir : "))
 
-if tahun_lahir >= 1994 and tahun_lahir <=1964:
+if tahun_lahir >= 1954 and tahun_lahir <=1964:
     print(nama,"berdasarkan tahun kelahiran anda merupakan generasi bayi boomer")
 
 elif tahun_lahir >= 1965 and tahun_lahir <=1979:
