@@ -1,5 +1,8 @@
 # dictionary
 
+from typing_extensions import Required
+
+
 member1 = {"ID":132,
           "Nama":"Rasul Bahar",
           "Pekerjaan":"Mahasiswa",
