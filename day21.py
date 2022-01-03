@@ -1,3 +1,4 @@
+
 gaji = int(input("Masukkan gaji anda : "))
 pekerjaan = input("pekerjaan anda : ")
 
