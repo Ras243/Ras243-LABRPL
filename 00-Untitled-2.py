@@ -19,6 +19,6 @@ while True:
             nominal = int(input("masukkan nominal pembayaran: "))
             tarik = Saldo - nominal
             print("sisa saldo anda :",tarik)
-    else: 
+    else:
         print("pin yang anda masukkan salah")
         

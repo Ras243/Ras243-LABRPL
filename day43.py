@@ -9,4 +9,4 @@ elif presiden == "soeharto":
 elif presiden == "jokowi":
     print("jokowi adalah presiden sekarang")
 else:
-    print("maaf, jawaban anda salah")
+    print("maaf, jawaban anda salah") 

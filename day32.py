@@ -4,3 +4,7 @@ def luas_persegi(sisi):
 
 # pemanggilan fungsi
 print("Luas persegi: %d" % luas_persegi(6))
+
+# rumus: sisi x sisi x sisi
+def volume_persegi(sisi):
+    volume = luas_persegi(sisi) * sisi

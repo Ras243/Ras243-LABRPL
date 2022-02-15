@@ -1,6 +1,7 @@
 # Membuat list kosong untuk menampung hobi
 hobi = []
 stop = False
+
 i = 1
 
 # Mengisi hobi

@@ -3,8 +3,9 @@ import numpy as np
 # membuat vector
 a =np.array([1,2,3,4,5])
 b = np.array([1.5,2.5,5,6,7])
-print(a)
 print(b)
+a[1] = 3
+print(a)
 
 # membuat vector dengan range
 c = np.arange(1,10,2)

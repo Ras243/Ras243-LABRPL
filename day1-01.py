@@ -11,7 +11,7 @@ print("a *= ->",a)
 a /= 8
 print("a /= ->",a)
 
-# karena a jadi float, kita menjadi integer
+# karena a jadi float, kita ubah menjadi integer
 a = int(a)
 a %= 9
 print("a %= ->",a)

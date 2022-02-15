@@ -7,8 +7,7 @@ if jumlah_barang > 5:
     potongan = total * diskon
     total_bayar = total - potongan
     print("total bayar",total_bayar)
-    
-    
+ 
 else:
     print ("anda tidak mendapatkan discount 20%")
     total_bayar = harga_barang * jumlah_barang
